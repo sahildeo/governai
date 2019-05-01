@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
+title: Govern Artificial Intelligence
 email: hello@govern-ai.com
 description: >
   A guide to getting started with Jekyll.
 baseurl: "/governai"
 url: "http://sahildeo.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: cpcEU
+github_username:  sahildeo
 # Build Settings
 sass:
   sass_dir: _sass
