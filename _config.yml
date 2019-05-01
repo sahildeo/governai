@@ -13,4 +13,4 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
-theme: minima
+theme: jekyll-theme-cayman
