@@ -8,6 +8,7 @@ url: "http://sahildeo.github.io"
 twitter_username: cpcEU
 github_username:  sahildeo
 # Build Settings
+theme: cayman
 sass:
   sass_dir: _sass
 include: ['_pages']
